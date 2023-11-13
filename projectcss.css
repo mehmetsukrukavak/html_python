@@ -10,8 +10,12 @@ h3 {
 
 p {
     color: yellow;
-    background-color: red;
 
+
+}
+
+.firstdiv {
+    background-color: lawngreen;
 }
 
 div {
@@ -28,4 +32,8 @@ h1 {
 
 h4 {
     color:white;
+}
+
+#myparagraph {
+    color: royalblue;
 }
