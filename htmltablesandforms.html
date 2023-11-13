@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tebles & Forms</title>
+</head>
+<body>
+    <table border=1>
+      <!-- table head-->
+      <thead>
+        <th>Name</th>
+        <th>Salary</th>
+        <th>Department</th>
+        <th>Age</th>
+      </thead>
+       <!-- table row-->
+      <tr>
+        <td>James Hetfield</td><td>3500</td><td>Musician</td><td>60</td>
+      </tr>
+      <tr>
+        <td>Lars Ulrich</td><td>2500</td><td>Musician</td><td>665</td>
+      </tr>
+    </table>
+    <br><br><br>
+    <form action="htmlimages.html">
+        <label for="name">Name : </label>
+        <input id="name" type="text" name="name" placeholder="Enter your name">
+        <br>
+        <label for="salary">Salary : </label>
+        <input id="salary" type="text" name="salary" placeholder="Enter your salary">
+        <br>
+        <label for="male">Male</label>
+        <input type="radio" id="male" name="gender" value="male">
+        <br>
+        <label for="female">Female</label>
+        <input type="radio" id="female" name="gender" value="female">
+        <br>
+        <select name="job" id="job">
+            <option>Engineer</option>
+            <option>Student</option>
+            <option>Teacher</option>
+        </select>
+        <br>
+        <input type="submit" value="Login">
+    </form>
+</body>
+</html>
