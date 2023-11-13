@@ -7,3 +7,25 @@ h3 {
      color: crimson;
     background-color: black;
 }
+
+p {
+    color: yellow;
+    background-color: red;
+
+}
+
+div {
+    background-color: black;
+}
+
+span {
+    background-color: royalblue;
+}
+
+h1 {
+     color: yellow;
+}
+
+h4 {
+    color:white;
+}
