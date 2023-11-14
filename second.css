@@ -14,7 +14,7 @@ p{
 }
 
 #mehmet{
-    border: 7px solid black;
+    border: 7px dotted black;
     padding: 30px;
     margin: 30px;
 }
