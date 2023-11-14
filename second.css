@@ -12,3 +12,14 @@ p{
     text-align: center;
     font-size: 2em;
 }
+
+#mehmet{
+    border: 7px solid black;
+    padding: 30px;
+    margin: 30px;
+}
+
+#kavak{
+    border: 7px solid purple;
+    margin: 100px;
+}
